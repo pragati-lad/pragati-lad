@@ -1,6 +1,6 @@
 # Hi, I'm Pragati 
 
-### Data Analyst | Data Scientist
+### Data Analysis | Data Science | AI
 
 learning.. <img src="./assets/buffering.png" width="25" alt="buffering">
 
